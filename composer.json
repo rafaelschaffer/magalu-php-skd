@@ -1,0 +1,25 @@
+{
+    "name": "rafaelschaffer/magalu-php-skd",
+    "description": "SDK Magazine Luiza",
+    "keywords": ["integracommerce", "marketplace", "Magazine Luiza", "api", "sdk"],
+    "license": "MIT",
+    "type": "libraries",
+    "support": {
+        "issues": "https://github.com/rafaelschaffer/magalu-php-skd/issues",
+        "source": "https://github.com/rafaelschaffer/magalu-php-skd"
+    },
+    "authors": [
+        {
+            "name": "Rafael Schaffer Gimenes",
+            "email": "rafael@ubiqui.com.br"
+        }
+    ],
+    "require": {
+        "php": ">=5.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Magalu\\": "src/"
+        }
+    }
+}
