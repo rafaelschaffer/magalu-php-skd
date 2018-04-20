@@ -1,8 +1,8 @@
 <?php
 
-namespace Skyhub\Resources;
+namespace Magalu\Resources;
 
-class Variations extends \Skyhub\Marketplace {
+class Variations extends \Magalu\Marketplace {
 
 	private $sku;
 

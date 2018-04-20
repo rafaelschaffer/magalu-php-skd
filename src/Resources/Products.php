@@ -1,8 +1,8 @@
 <?php
 
-namespace Skyhub\Resources;
+namespace Magalu\Resources;
 
-class Products extends \Skyhub\Marketplace {
+class Products extends \Magalu\Marketplace {
 
 	private $sku=null,
 	        $params;

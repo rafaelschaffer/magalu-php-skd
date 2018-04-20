@@ -1,8 +1,8 @@
 <?php
 
-namespace Skyhub\Resources;
+namespace Magalu\Resources;
 
-class Queue extends \Skyhub\Marketplace {
+class Queue extends \Magalu\Marketplace {
 
 	private $id;
 

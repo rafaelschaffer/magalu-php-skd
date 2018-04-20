@@ -1,6 +1,6 @@
 <?php
 
-namespace Skyhub;
+namespace Magalu;
 
 class Marketplace {
 	
